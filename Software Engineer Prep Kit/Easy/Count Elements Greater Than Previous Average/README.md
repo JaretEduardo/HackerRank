@@ -4,11 +4,15 @@ Given an array of positive integers, return the number of elements that are stri
 
 #### Example
 
-Input
-`responseTimes = [100, 200, 150,300]`
+#### Input
+```md
+responseTimes = [100, 200, 150,300]
+```
 
-Output
-`2`
+#### Output
+```md
+2
+```
 
 #### Explanation
 ```md
@@ -41,10 +45,14 @@ here 4 is the length of array, followed by the elements of array on each line.
     A single integer depicting the count of days.
 
 #### Sample Input 0
-`0`
+```md
+0
+```
 
 #### Sample Output 0
-`0`
+```md
+0
+```
 
 #### Sample input 1
 ```md
@@ -53,4 +61,6 @@ here 4 is the length of array, followed by the elements of array on each line.
 ```
 
 #### Sample Output 1
-`0`
+```md
+0
+```
