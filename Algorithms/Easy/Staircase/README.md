@@ -35,3 +35,22 @@ A single integer, n, denoting the size of the staircase.
 0 < n < 100.
 
 #### Sample Input
+
+´´´md
+6
+´´´
+
+#### Sample Output
+
+´´´md
+     #
+    ##
+   ###
+  ####
+ #####
+######
+´´´
+
+#### Explanation
+
+The staircase is right-aligned, composed of # symbols and spaces, and has a height and width of n = 6.
